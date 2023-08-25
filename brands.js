@@ -1,36 +1,13 @@
-
-db.brand.insertOne({id:130090,name:"Cvstos",url:"",country:"",description:"",class:["Luxury"],location:{}})
+db.brand.insertOne({id:230040,name:"Montblanc",url:"",country:"",description:"",class:["Luxury"],location:{}})
 db.brand.insertOne({id:,name:"",url:"",country:"",description:"",class:["Luxury"],location:{}})
 db.brand.insertOne({id:,name:"",url:"",country:"",description:"",class:["Luxury"],location:{}})
 db.brand.insertOne({id:,name:"",url:"",country:"",description:"",class:["Luxury"],location:{}})
+db.brand.insertOne({id:,name:"",url:"",country:"",description:"",class:["Luxury"],location:{}})
+db.brand.insertOne({id:,name:"",url:"",country:"",description:"",class:["Luxury"],location:{}})
 
 
 
 
-
-Daniel Roth
-Ebel
-Frederique Constant
-Gucci
-Hamilton
-Harry Winston
-Hermes
-Hublot
-HYT
-IWC Schaffhausen
-Jacob & Co.
-Jaeger LeCoultre
-Jaquet Droz
-Jean Richard
-Kari Voutilainen
-Laurent Ferrier
-Longines
-Louis Moinet
-Louis Vuitton
-Maurice Lacroix
-MB&F (Maximilian Büsser & Friends)
-Meistersinger
-Montblanc
 Moritz Grossmann
 Movado
 Nomos Glashütte
@@ -191,3 +168,25 @@ Versus By Versace
 Victorinox
 Waldhoff
 Zeno
+
+Accutron
+Armin Strom
+Berd Vay'e
+Bovet
+Credor
+DOXA
+Grand Seiko
+ID Genève
+Kross Studio
+L’epee 1839
+Massena LAB
+MB&F
+Nivada Grenchen
+QLOCKTWO
+Reservoir
+Ressence
+Speake-Marin
+The Watch Stand
+William Wood Watches
+WOLF
+

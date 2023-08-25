@@ -1,7 +1,6 @@
 {
   "name": "watches",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +9,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "async": "^3.2.4",
     "axios": "^1.4.0",
     "cheerio": "^1.0.0-rc.12"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcchai-sg/watches.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lcchai-sg/watches/issues"
+  },
+  "homepage": "https://github.com/lcchai-sg/watches#readme",
+  "description": ""
 }
