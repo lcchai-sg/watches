@@ -1,7 +1,7 @@
 const axios = require('axios');
 const graphql = `https://www.longines.com/api/graphql`;
 let initQry = `query{categories{items{uid}}}`;
-let categoriesQry = `query{categories(filters:{category_uid:{eq:"MTIy"}}){items{name children{name uid}}}}`;
+let categoriesQry = `query{categories(filters:{category_uid:{eq:"Mg=="}}){items{name children{name uid}}}}`;
 let uid="";
 let productsQry = `query{products(pageSize:2000,filter:{category_uid:{eq:"${uid}"}}){items{categories{uid}}}}`;
 const uuid = [];
@@ -24,5 +24,10 @@ const uuid = [];
             }
         }
     }
-    console.log(uuid);
+    for (const uid of uuid) {
+        categoriesQry = `query{categories(filters:{category_uid:{eq:"${uid}"}}){items{name children{name uid}}}}`;
+        const { data } = await axios.post(graphql, {query:categoriesQry});
+        console.log(data);
+        exit(0);
+    }
 })();
