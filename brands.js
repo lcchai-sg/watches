@@ -1,18 +1,11 @@
-db.brand.insertOne({id:230040,name:"Montblanc",url:"",country:"",description:"",class:["Luxury"],location:{}})
-db.brand.insertOne({id:,name:"",url:"",country:"",description:"",class:["Luxury"],location:{}})
-db.brand.insertOne({id:,name:"",url:"",country:"",description:"",class:["Luxury"],location:{}})
-db.brand.insertOne({id:,name:"",url:"",country:"",description:"",class:["Luxury"],location:{}})
-db.brand.insertOne({id:,name:"",url:"",country:"",description:"",class:["Luxury"],location:{}})
-db.brand.insertOne({id:,name:"",url:"",country:"",description:"",class:["Luxury"],location:{}})
+db.brands.insertOne({id:260010,name:"Panerai",url:"",country:"Italy",description:"Officine Panerai, commonly known as Panerai, is a luxury Italian watchmaker with a strong historical connection to the Italian Navy. The brand is known for its distinctive and bold designs, as well as its association with precision timekeeping and underwater activities.\nPanerai was founded in 1860 in Florence, Italy. Initially, the brand was primarily known for producing precision instruments, including compasses and depth gauges, for the Italian Navy. Panerai's watches gained significant attention when they were adopted by naval divers and commandos due to their legibility and water-resistant properties.\nPanerai is often recognized for its two iconic watch case designs: Luminor and Radiomir. The Luminor case is characterized by its distinctive crown protector, which helps enhance water resistance. The Radiomir case, on the other hand, is known for its cushion-shaped case and wire lugs. Both designs have become synonymous with the brand's identity.\nPanerai's watches are known for their bold and instantly recognizable designs that pay homage to the brand's historical roots. The combination of Italian design sensibilities with Swiss watchmaking expertise has contributed to Panerai's enduring appeal in the luxury watch industry.",class:["Luxury"],locale_name:{"zh-hans":"沛纳海"},location:{Australia:{en:"https://www.panerai.com/au/en/home.html"},Austria:{de:"https://www.panerai.com/at/de/home.html"}}})
+db.brands.insertOne({id:,name:"",url:"",country:"",description:"",class:["Luxury"],location:{}})
+db.brands.insertOne({id:,name:"",url:"",country:"",description:"",class:["Luxury"],location:{}})
+db.brands.insertOne({id:,name:"",url:"",country:"",description:"",class:["Luxury"],location:{}})
+db.brands.insertOne({id:,name:"",url:"",country:"",description:"",class:["Luxury"],location:{}})
+db.brands.insertOne({id:,name:"",url:"",country:"",description:"",class:["Luxury"],location:{}})
 
 
-
-
-Moritz Grossmann
-Movado
-Nomos Glashütte
-Omega
-Oris
 Panerai
 Parmigiani Fleurier
 Patek Philippe
