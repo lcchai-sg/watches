@@ -1,0 +1,36 @@
+db.brands.insertOne({id:260130,name:"Romain Jerome",url:"",country:"",description:"",class:["Luxury"],location:{}})
+db.brands.insertOne({id:,name:"",url:"",country:"",description:"",class:["Luxury"],location:{}})
+db.brands.insertOne({id:,name:"",url:"",country:"",description:"",class:["Luxury"],location:{}})
+db.brands.insertOne({id:,name:"",url:"",country:"",description:"",class:["Luxury"],location:{}})
+db.brands.insertOne({id:,name:"",url:"",country:"",description:"",class:["Luxury"],location:{}})
+
+
+
+Armani Exchange | Adee Kaye | Akribos Xxiv | Anne Klein | Armand Nicolet | August Steiner | Accutron | Armin Strom
+Ballast | Bedat | Ben And Sons | Bertha | Bomberg | Breed | Brera Orologi | Brooklyn Watch Co. | Bulova | Burberry | Burgi | Berd Vay'e | Bovet
+Cabochon | Calibre | Calvin Klein | Casio | Certina | Charriol | Chaumet | Chronoswiss | Claude Bernard | Cluse | Crayo | Credor | Cuervo Y Sobrinos
+Daniel Wellington | De Grisogono | Deep Blue | Dewitt | Diesel | Dietrich | Dior | Dkny | DOXA
+Earth | Edox | Elevon | Elini Barokas | Ellen Tracy | Emporio Armani | Empress | Equipe | Ernest Borel
+Ferrari | Ferre Milano | Fortis | Fossil | Franc Vila | Furla
+Gc By Guess | Geoffrey Beene |  Gevril | Giulio Romano | Glycine | Grand Seiko | Guess | Gv2 By Gevril
+Haurex Italy | Heritor
+Ice-Watch | Invicta | ID Genève
+Jbw | Jivago | Johan Eric | Jorg Hysek | Joshua And Sons | Junghans | Just Cavalli
+Kate Spade | Kenneth Cole | Kross Studio
+Lacoste |  Lancaster | Lego | Locman | Louis Erard | Lucien Piccard | Luminox | L’epee 1839
+Marc Jacobs | Maserati | Mathey-Tissot | Michael Kors | Michele | Mido | Milus | Mondaine | Morphic | Mulco | Massena LAB
+Nautica | Nixon | Nivada Grenchen
+Oceanaut | Olivia Burton | Oniss | Orient | QLOCKTWO
+Paul Picot | Philip Stein | Picasso And Co | Police
+Rebel | Reign | Revue Thommen | Roberto Cavalli | Rudiger | Reservoir | Ressence
+Seiko | Sinn | S Coifman |  Sekonda | Sevenfriday | Shield | Shinola | Simplify | Skagen | Sophie And Freda | Stuhrling Original | Suunto
+Swarovski | Swatch | Swiss Military | Speake-Marin
+Tudor | TAG Heuer | Technomarine | Thomas Earnshaw | Timex | Tissot | Tommy Hilfiger | Tw Steel | The Watch Stand
+Ulysse Nardin | U-Boat | Urwerk
+Vacheron Constantin | Van Cleef & Arpels | Vulcain | Ventura | Versace | Versus By Versace | Victorinox
+Waldhoff | William Wood Watches | WOLF
+Zenith | Zeno
+
+
+
+
