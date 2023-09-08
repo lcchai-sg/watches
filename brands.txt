@@ -1,13 +1,15 @@
-db.brands.insertOne({id:260130,name:"Romain Jerome",url:"",country:"",description:"",class:["Luxury"],location:{}})
-db.brands.insertOne({id:,name:"",url:"",country:"",description:"",class:["Luxury"],location:{}})
-db.brands.insertOne({id:,name:"",url:"",country:"",description:"",class:["Luxury"],location:{}})
+db.brands.insertOne({id:120150,name:"Brera Orologi",alias:["Brera Milano"],url:"https://breramilano.com/en/",country:"ITALY",description:"",class:["Luxury"],location:{official:{en:"https://breramilano.com/en/",it:"https://breramilano.com/it/"}}})
+db.brands.insertOne({id:120160,name:"Brooklyn Watch Co.",url:"",country:"",description:"",class:["Luxury"],location:{}})
+db.brands.insertOne({id:120170,name:"Bulova",url:"",country:"",description:"",class:["Luxury"],location:{}})
+db.brands.insertOne({id:120180,name:"Burberry",url:"",country:"",description:"",class:["Luxury"],location:{}})
+db.brands.insertOne({id:120190,name:"Burgi",url:"",country:"",description:"",class:["Luxury"],location:{}})
+db.brands.insertOne({id:120200,name:"Berd Vay'e",url:"",country:"",description:"",class:["Luxury"],location:{}})
+db.brands.insertOne({id:120210,name:"Bovet",url:"",country:"",description:"",class:["Luxury"],location:{}})
 db.brands.insertOne({id:,name:"",url:"",country:"",description:"",class:["Luxury"],location:{}})
 db.brands.insertOne({id:,name:"",url:"",country:"",description:"",class:["Luxury"],location:{}})
 
 
 
-Armani Exchange | Adee Kaye | Akribos Xxiv | Anne Klein | Armand Nicolet | August Steiner | Accutron | Armin Strom
-Ballast | Bedat | Ben And Sons | Bertha | Bomberg | Breed | Brera Orologi | Brooklyn Watch Co. | Bulova | Burberry | Burgi | Berd Vay'e | Bovet
 Cabochon | Calibre | Calvin Klein | Casio | Certina | Charriol | Chaumet | Chronoswiss | Claude Bernard | Cluse | Crayo | Credor | Cuervo Y Sobrinos
 Daniel Wellington | De Grisogono | Deep Blue | Dewitt | Diesel | Dietrich | Dior | Dkny | DOXA
 Earth | Edox | Elevon | Elini Barokas | Ellen Tracy | Emporio Armani | Empress | Equipe | Ernest Borel
